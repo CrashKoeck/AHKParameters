@@ -26,7 +26,7 @@ ScriptName = "AHKParameters"
 Website = "https://github.com/CrashKoeck/AHKParameters"
 Description = "Run AutoHotkey scripts with or without parameters"
 Creator = "CrashKoeck" 
-Version = "1.0.1"
+Version = "1.0.2"
 
 
 
