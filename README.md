@@ -19,7 +19,7 @@
 - Import the script into Streamlabs Chatbot (Read the <a href="https://cdn.streamlabs.com/chatbot/Documentation_Twitch.pdf">Streamlabs Chatbot documentation</a> to see how to import scripts)
 - Right click on <b>AHKParameters</b> in the Streamlabs Chatbot script list and "Insert API key"
 - Install <a href="https://www.autohotkey.com/">Autohotkey</a>
-- Put your .ahk scripts into the <i>AHKPScripts</i> folder (open the scripts folder by clicking on the <b>Open Scripts Folder</b> button when the AutoHotkey Parameters script is selected in Streamlabs Chatbot)
+- Put your .ahk scripts into the <i>AHKPScripts</i> folder (open the scripts folder by clicking on the <b>Open Scripts Folder</b> button when the AHKParameters script is selected in Streamlabs Chatbot)
 - Set the AutoHotkey install directory. It's usually ```C:\Program Files\AutoHotkey``` (already set by default).
 
 ***
