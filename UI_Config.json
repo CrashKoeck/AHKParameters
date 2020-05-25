@@ -9,7 +9,7 @@
 	"Open ReadMe": {
         "type": "button",
         "label": "Open ReadMe",
-        "tooltip": "Open ReadMe file",
+        "tooltip": "Open ReadMe",
         "function": "OpenReadMe",
 		"wsevent": "EVENT_NONE"
     },
