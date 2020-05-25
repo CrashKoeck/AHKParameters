@@ -14,10 +14,12 @@
 ***
 
 ## Setup
+- Download the latest release of <b>AHKParameters.zip</b> from this page
 - Install and setup Python in Streamlabs Chatbot if you haven't already (Read the <a href="https://cdn.streamlabs.com/chatbot/Documentation_Twitch.pdf">Streamlabs Chatbot documentation</a> to see how to set up Python)
-- Install <a href="https://www.autohotkey.com/">Autohotkey</a>
-- Put your .ahk scripts into the AHKPScripts folder
+- Import the script into Streamlabs Chatbot (Read the <a href="https://cdn.streamlabs.com/chatbot/Documentation_Twitch.pdf">Streamlabs Chatbot documentation</a> to see how to import scripts)
 - Right click on AutoHotkey Parameters in the Streamlabs Chatbot script list and "Insert API key"
+- Install <a href="https://www.autohotkey.com/">Autohotkey</a>
+- Put your .ahk scripts into the <i>AHKPScripts</i> folder (open the scripts folder by clicking on the <b>Open Scripts Folder</b> when the AutoHotkey Parameters script is selected in Streamlabs Chatbot)
 - Set the AutoHotkey install directory. It's usually ```C:\Program Files\AutoHotkey``` (already set by default).
 
 ***
@@ -40,7 +42,7 @@ the included <b>example.ahk</b> to get an idea of how it works.
 
 ## Warning
 - Try to avoid special characters if possible as some will not properly pass
-through Chatbot. Characters that will definitely *not* work are double quotes,
+through Chatbot. Characters that will definitely <i>not</i> work are double quotes,
 parentheses, and commas. ```"" () ,,```
 
 ***
