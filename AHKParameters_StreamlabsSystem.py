@@ -22,7 +22,7 @@ clr.AddReference("IronPython.Modules.dll")
 #   [Required] Script Information
 #---------------------------
 
-ScriptName = "AutoHotkey Parameters"
+ScriptName = "AHKParameters"
 Website = "https://github.com/CrashKoeck/AHKParameters"
 Description = "Run AutoHotkey scripts with or without parameters"
 Creator = "CrashKoeck" 
