@@ -1,0 +1,38 @@
+{
+	"output_file": "settings.json",
+	"AHKPPath": {
+		"type": "textbox",
+		"value": "C:\\Program Files\\AutoHotkey",
+		"label": "AutoHotkey Install Directory",
+		"tooltip": "The AutoHotkey install directory.\r\nUsually \"C:\\Program Files\\AutoHotkey\""
+	},
+	"Open ReadMe": {
+        "type": "button",
+        "label": "Open ReadMe",
+        "tooltip": "Open ReadMe file",
+        "function": "OpenReadMe",
+		"wsevent": "EVENT_NONE"
+    },
+	"Open Scripts Folder": {
+        "type": "button",
+        "label": "Open Scripts Folder",
+        "tooltip": "Open Scripts Folder",
+        "function": "OpenAHKPScripts",
+		"wsevent": "EVENT_NONE"
+    },
+	"Visit Crash's Website": {
+        "type": "button",
+        "label": "Visit Crash's Website",
+        "tooltip": "Visit CrashKoeck.com",
+        "function": "VisitWebiste",
+		"wsevent": "EVENT_NONE"
+    },
+	"Join Crash's Discord": {
+        "type": "button",
+        "label": "Join Crash's Discord",
+        "tooltip": "Join Crash's Discord for Support",
+        "function": "JoinDiscord",
+		"wsevent": "EVENT_NONE"
+    }
+
+}
