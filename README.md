@@ -14,7 +14,7 @@
 ***
 
 ## Setup
-- Download the latest release of <b>AHKParameters.zip</b> from this page
+- Download the latest release of <b>AHKParameters.zip</b> from <a href="https://github.com/CrashKoeck/AHKParameters/releases">this page</a>
 - Install and setup Python in Streamlabs Chatbot if you haven't already (Read the <a href="https://cdn.streamlabs.com/chatbot/Documentation_Twitch.pdf">Streamlabs Chatbot documentation</a> to see how to set up Python)
 - Import the script into Streamlabs Chatbot (Read the <a href="https://cdn.streamlabs.com/chatbot/Documentation_Twitch.pdf">Streamlabs Chatbot documentation</a> to see how to import scripts)
 - Right click on <b>AHKParameters</b> in the Streamlabs Chatbot script list and "Insert API key"
