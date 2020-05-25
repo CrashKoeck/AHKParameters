@@ -23,10 +23,10 @@ clr.AddReference("IronPython.Modules.dll")
 #---------------------------
 
 ScriptName = "AutoHotkey Parameters"
-Website = "CrashKoeck.com"
+Website = "https://github.com/CrashKoeck/AHKParameters"
 Description = "Run AutoHotkey scripts with or without parameters"
 Creator = "CrashKoeck" 
-Version = "1.0.0"
+Version = "1.0.1"
 
 
 
@@ -168,8 +168,8 @@ def RunAHKP(script,params):
 #---------------------------
 
 def OpenReadMe():
-    """ Open the script readme file in users default .txt application. """
-    os.startfile(ReadMeFile)
+    """ Open the script readme file on GitHub in the user's default browser. """
+    os.system("start \"\" https://github.com/CrashKoeck/AHKParameters/blob/master/README.md")
     return
 
 def OpenAHKPScripts():
@@ -177,11 +177,11 @@ def OpenAHKPScripts():
     os.startfile(os.path.join(os.path.dirname(__file__), "AHKPScripts"))
 
 def VisitWebiste():
-    """ Open Crash's website in users default browser. """
+    """ Open Crash's website in user's default browser. """
     os.system("start \"\" https://www.CrashKoeck.com")
     return
 
 def JoinDiscord():
-    """ Open Discord invite link in users default browser. """
+    """ Open Discord invite link in user's default browser. """
     os.system("start \"\" https://discord.gg/zyS2jbJ")
     return
