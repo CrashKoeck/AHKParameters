@@ -48,7 +48,7 @@ parentheses, and commas. ```"" () ,,```
 ***
 
 ## Future Plans
-- None, let me know if there is something that should be added
+- None. Let me know if there is something that should be added.
 
 ***
 
