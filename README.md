@@ -47,5 +47,10 @@ parentheses, and commas. ```"" () ,,```
 
 ***
 
+## Future Plans
+- None, let me know if there is something that should be added
+
+***
+
 ## Support
 - Be sure to join the <a href="https://discord.gg/zyS2jbJ">CrashPad Discord</a> for direct support
