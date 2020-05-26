@@ -2,6 +2,8 @@
 
 <p align="center">AHKParameters allows you to run AutoHotkey scripts from <a href="https://streamlabs.com/chatbot">Streamlabs Chatbot</a> in commands and also allows you to pass custom parameters directly to your AutoHotkey scripts.</p>
 
+<p align="center"><img src="https://user-images.githubusercontent.com/51434502/82870279-88054400-9ee4-11ea-8f30-5725a0682a1f.png"></p>
+
 <p align="center"><i><b>
   Crash on the interwebs<br>
   <a href="https://twitter.com/CrashKoeck">Twitter</a> |
